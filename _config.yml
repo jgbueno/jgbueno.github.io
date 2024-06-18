@@ -19,7 +19,6 @@ description: >- # this means to ignore newlines until "baseurl:"
   Math site for Math enthusiast 
 twitter_username: # username
 github_username: jgbueno
-minimal_mistakes_skin: dark
 search: true
 
 # Build settings
