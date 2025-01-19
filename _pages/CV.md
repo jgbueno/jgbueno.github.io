@@ -27,7 +27,7 @@ _Teaching Fellow at the Department of Mathematics and Computer Science, Universi
 <tr>
 <td markdown="span">**PhD Mathematics**, University of the Philippines Baguio
 </td>
-<td markdown="span">3<sup>rd</sup> Year</td>
+<td markdown="span">4<sup>th</sup> Year</td>
 </tr>
 </tbody>
 </table>
