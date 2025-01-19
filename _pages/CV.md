@@ -262,9 +262,14 @@ students in UP Baguio
 </colgroup>
 <tbody>
 <tr>
-<td markdown="span">SIAM - Free Graduate Student Membership
+<td markdown="span"> Mathematical Society of the Philippines (MSP)
 </td>
-<td markdown="span">Jan 1, 2024 to Dec 31, 2024</td>
+<td markdown="span">June 1, 2024 to May 31, 2025</td>
+</tr>
+<tr>
+<td markdown="span"> Southeast Asian Mathematical Society (SEAMS)
+</td>
+<td markdown="span">June 1, 2024 to May 31, 2025</td>
 </tr>
 </tbody>
 </table>
