@@ -10,8 +10,8 @@ _Teaching Fellow at the Department of Mathematics and Computer Science, Universi
 ## Education
 <table>
 <colgroup>
-<col width="100%" />
-<!-- <col width="10%" /> -->
+<col width="75%" />
+<col width="25%" />
 </colgroup>
 <tbody>
 <tr>
