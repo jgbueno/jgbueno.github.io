@@ -35,8 +35,8 @@ _Teaching Fellow at the Department of Mathematics and Computer Science, Universi
 ## Experience
 <table>
 <colgroup>
-<col width="80%" />
-<col width="20%" />
+<col width="75%" />
+<col width="25%" />
 </colgroup>
 <tbody>
 <tr>
@@ -83,8 +83,8 @@ _Introduced the speaker and assisted the participants questions on the lectures.
 ## Seminars / Workshops Attended
 <table>
 <colgroup>
-<col width="80%" />
-<col width="20%" />
+<col width="75%" />
+<col width="25%" />
 </colgroup>
 <tbody>
 <tr>
@@ -205,8 +205,8 @@ Services: Application of Location-Allocation Models, UP Mindanao, Philippines
 ## Lectures / Presentations Delivered
 <table>
 <colgroup>
-<col width="80%" />
-<col width="20%" />
+<col width="75%" />
+<col width="25%" />
 </colgroup>
 <tbody>
 <tr>
@@ -254,7 +254,7 @@ students in UP Baguio
 </tbody>
 </table>
 
-## Membership
+<!-- ## Membership
 <table>
 <colgroup>
 <col width="80%" />
@@ -272,4 +272,4 @@ students in UP Baguio
 <td markdown="span">June 1, 2024 to May 31, 2025</td>
 </tr>
 </tbody>
-</table>
+</table> -->
