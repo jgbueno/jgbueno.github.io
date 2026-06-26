@@ -45,7 +45,7 @@ _Teaching Fellow at the Department of Mathematics and Computer Science, Universi
 _Teach Calculus, Numerical Analysis and Computer Science subjects offered by the department 
 under a supervision of assigned faculty._
 </td>
-<td markdown="span">2021 - Present</td>
+<td markdown="span">2021 - 2026</td>
 </tr>
 <tr>
 <td markdown="span">28<sup>th</sup> Summer Institute in the Natural Sciences and Mathematics<br>
@@ -59,7 +59,7 @@ _Introduced the speaker and assisted the participants questions on the lectures.
 **Facilitator**<br>
 _Introduced the speaker and assisted the participants questions on the lectures._
 </td>
-<td markdown="span">Aug 2023 - Jun 2024</td>
+<td markdown="span">Aug 2023 - Jun 2026</td>
 </tr>
 <tr>
 <td markdown="span">27<sup>th</sup> Summer Institute in the Natural Sciences and Mathematics<br>
@@ -74,7 +74,7 @@ Intensive Training Program 2021<br>
 **Facilitator**<br>
 _Introduced the speaker and assisted the participants questions on the lectures._
 </td>
-<td markdown="span">Aug '22 - Sep '22<br> Jul 2021 </td>
+<td markdown="span">Aug 2022 - Sep 2022<br> Jul 2021 </td>
 </tr>
 </tbody>
 </table>
