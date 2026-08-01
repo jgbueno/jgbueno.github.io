@@ -5,7 +5,7 @@ permalink: /CV/
 ---
 
 ## Junius Wilhelm Garcia Bueno
-_Teaching Fellow at the Department of Mathematics and Computer Science, University of the Philippines Baguio_ <br>
+_Assistant Professor (of Mathematics) at the Department of Mathematics and Computer Science, University of the Philippines Baguio_ <br>
 
 ## Education
 <table>
@@ -27,7 +27,7 @@ _Teaching Fellow at the Department of Mathematics and Computer Science, Universi
 <tr>
 <td markdown="span">**PhD Mathematics**, University of the Philippines Baguio
 </td>
-<td markdown="span">5<sup>th</sup> Year</td>
+<td markdown="span">2026</td>
 </tr>
 </tbody>
 </table>
@@ -39,6 +39,13 @@ _Teaching Fellow at the Department of Mathematics and Computer Science, Universi
 <col width="25%" />
 </colgroup>
 <tbody>
+<tr>
+<td markdown="span">Department of Mathematics and Computer Science (DMC), UP Baguio<br>
+**Assistant Professor**<br>
+_Teaching staff of the Department, see <a href="https://facultymanual.upd.edu.ph/?p=topic&id=4"  target="_blank"><b>Faculty Manual</b></a> for the details._
+</td>
+<td markdown="span">2026 - Present</td>
+</tr>
 <tr>
 <td markdown="span">Department of Mathematics and Computer Science (DMC), UP Baguio<br>
 **Teaching Fellow**<br>
@@ -87,6 +94,36 @@ _Introduced the speaker and assisted the participants questions on the lectures.
 <col width="25%" />
 </colgroup>
 <tbody>
+<tr>
+<td markdown="span"> 2026 MSP Annual Convention, Pangasinan State University, Lingayen, Pangasinan, Philippines
+</td>
+<td markdown="span">Jun 2026</td>
+</tr>
+<tr>
+<td markdown="span"> 2025 SEAMS School UP Baguio: Inverse Problems and Optimal Control, Department of Mathematics and Computer Science, University of the Philippines Baguio 
+</td>
+<td markdown="span">Dec 2025</td>
+</tr>
+<tr>
+<td markdown="span"> 2025 SEAMS School Los Baños: Theoretical and Computational Tools for Data-enabled Sciences, Institute of Mathematical Sciences, University of the Philippines Los Baños  
+</td>
+<td markdown="span">Jul 2025</td>
+</tr>
+<tr>
+<td markdown="span"> Collaborative Workshop CIMPA-SIMONS Foundation, Institut Teknologi Bandung, Indonesia 
+</td>
+<td markdown="span">Jul 2025</td>
+</tr>
+<tr>
+<td markdown="span"> PDEs 2025: Recent Developments in Theory and Applications, Boracay Island, Aklan, Philippines 
+</td>
+<td markdown="span">Feb 2025</td>
+</tr>
+<tr>
+<td markdown="span"> QNLP Lecture Series: Introduction to Quantum Natural Language Processing, via Zoom, (14 week learning program) 
+</td>
+<td markdown="span">Sep '24 - Nov '24</td>
+</tr>
 <tr>
 <td markdown="span"> 2024 Mathematical Society of the Philippines Annual Convention, University of the Philippines Tacloban College
 </td>
@@ -209,6 +246,23 @@ Services: Application of Location-Allocation Models, UP Mindanao, Philippines
 <col width="25%" />
 </colgroup>
 <tbody>
+<tr>
+<td markdown="span">**Dengue incidence in Baguio City: An application of a compartmental model to Baguio City data for the years 2011 to 2022** during the 2026 MSP Annual Convention, Pangasinan State University, 
+Lingayen, Pangasinan, Philippines 
+</td>
+<td markdown="span">Jun 2026</td>
+</tr>
+<tr>
+<td markdown="span">**Well-Posedness of Navier—Stokes--Voigt Equations in Low Regular N-Dimensional Domains** poster presentation, during the PDEs 2025: Recent Developments in Theory and Applications, 
+Boracay Island, Aklan, Philippines 
+</td>
+<td markdown="span">Feb 2025</td>
+</tr>
+<tr>
+<td markdown="span">**Introduction to MATLAB**, during the 7th DMCS Midyear School: Graduate Bootcamp, UP Baguio 
+</td>
+<td markdown="span">Aug 2024</td>
+</tr>
 <tr>
 <td markdown="span">**Well-posedness of Navier-Stokes-Voigt System with forces of  Low Time-Space Regularity** during the 2024 Mathematical Society of the Philippines Annual Convention at the University of the Philippines Tacloban College
 </td>

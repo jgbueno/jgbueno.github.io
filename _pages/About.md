@@ -5,5 +5,8 @@ permalink: /about/
 ---
 
 ## Junius Wilhelm Garcia Bueno
-_Teaching Fellow at the Department of Mathematics and Computer Science, University of the Philippines Baguio_ <br>
+_Assistant Professor (of Mathematics) at the Department of Mathematics and Computer Science, University of the Philippines Baguio_ <br>
+
+## Research Interests
+Differential Equations, Fluid Dynamics, Optimal Control, Numerical Analysis
 

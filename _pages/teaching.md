@@ -5,7 +5,7 @@ permalink: /teaching/
 <br>
 
 
-# <ins>Academic Year 2024 - 2025</ins>
+# <ins>Academic Year 2025 - 2026</ins>
 
 ## Second Semester
 
@@ -17,7 +17,19 @@ permalink: /teaching/
 &nbsp;&nbsp;<b>QR</b> (WF 03:00 PM - 04:00 PM 04:30 PM - 06:00 PM PST)<br>
 <ins><b>Course Description</b></ins>: This is a course on algorithms and numerical methods for scientific computing. Topics include error analysis, solutions of linear and nonlinear equations; numerical integration and differentiation numerical solutions of ordinary differential equations.<br>
 <ins><b>Credit</b></ins>: 3 units (2-unit lecture & 1.5-unit lab)<br><br>
-<a href="https://drive.google.com/file/d/1F1bGIl1oH5lo4bKhLbnLAZKoWmxkGFZh/view?usp=drive_link"  target="_blank"><b>Link to Course Syllabus</b></a><br><br>
+<a href="https://drive.google.com/file/d/1d-rR-BCFJ7CAgLsxBATSi6Cd8eWnU1Lv/view?usp=drive_link"  target="_blank"><b>Link to Course Syllabus</b></a><br><br>
+<ins><b>Long Examinations</b></ins>
+<ul>
+<li> <a href="https://drive.google.com/file/d/1vxlbCSzBk-v9jRLBuxWh9ma6wFP2XtoJ/view?usp=drive_link" target="_blank">First Long Exam</a></li>
+<li> <a href="https://drive.google.com/file/d/1ljCVx4ijrQ7j3rvqblGbM1f03dgJqW1-/view?usp=drive_link" target="_blank">Second Long Exam</a></li>
+</ul>
+<br><br>
+<ins><b>Problem Sets</b></ins>
+<ul>
+<li> <a href="https://drive.google.com/file/d/14XtMzevUnA0Fkxg6ZRXiX6QyPBJ9pfy6/view?usp=drive_link" target="_blank">Problem Set 1</a></li>
+<li> <a href="https://drive.google.com/file/d/1Mgju_AQTykMVXvhIbs4XcfOyollystFh/view?usp=drive_link" target="_blank">Problem Set 2</a></li>
+<li> <a href="https://drive.google.com/file/d/1B6F1apbIfNFp_JfutY9TKKBzUiinaf8x/view?usp=drive_link" target="_blank">Problem Set 3</a></li>
+</ul>
 </details>
 
 
@@ -30,6 +42,13 @@ permalink: /teaching/
 <ins><b>Section</b></ins>: E1<br>
 <ins><b>Course Description</b></ins>: Partial differentiation, multiple integrals, infinite series, differential equations.<br>
 <ins><b>Credit</b></ins>: 3 units<br><br>
+<a href="https://drive.google.com/file/d/1hVxvMH9KOt0ye1l_6El0ExZvk0STjkdG/view?usp=drive_link" target="_blank"><b>Link to Course Syllabus</b></a><br><br>
+<ins><b>Long Examinations</b></ins>
+<ul>
+<li> <a href="https://drive.google.com/file/d/1LabSjAHrAFuQSdBtS9yDXWBp1WnA_Zaw/view?usp=drive_link" target="_blank">First Long Exam</a></li>
+<li> <a href="https://drive.google.com/file/d/1jivvSBl9oHuDVu6g6GZGew36JuBzUCOT/view?usp=drive_link" target="_blank">Second Long Exam</a></li>
+<li> <a href="https://drive.google.com/file/d/1sRNF5nZqOtjsVeR-6lEV8qnq7pgTrSAU/view?usp=drive_link" target="_blank">Third Long Exam</a></li>
+</ul>
 </details>
 
 
